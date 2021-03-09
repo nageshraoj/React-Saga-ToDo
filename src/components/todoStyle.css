@@ -1,0 +1,28 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-style {
+  width: 12rem;
+  height: 15rem;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.cardbody-style {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(101, 77, 101);
+  color: #fff;
+  height: inherit;
+  width: inherit;
+  border: none;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5), 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.card-footer {
+  position: absolute;
+  bottom: 5px;
+}

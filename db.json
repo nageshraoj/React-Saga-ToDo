@@ -1,0 +1,28 @@
+{
+  "intialTodos": [
+    {
+      "id": 1,
+      "title": "Party",
+      "catagory": "Birthday party",
+      "todo": "Buy Cake"
+    },
+    {
+      "id": 2,
+      "title": "Personal",
+      "catagory": "General",
+      "todo": "Buy cloths"
+    },
+    {
+      "id": 3,
+      "title": "Home",
+      "catagory": "General",
+      "todo": "Clearn House"
+    },
+    {
+      "id": "c90457a5-d7d2-46df-88b7-6f1be049593f",
+      "title": "Office",
+      "catagory": "Project",
+      "todo": "Schedule recurrence meetings"
+    }
+  ]
+}
